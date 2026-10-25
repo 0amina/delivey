@@ -1,0 +1,15 @@
+.elementor-widget-image{text-align:center !important;
+}
+.elementor-widget-image a{display:inline-block !important;}
+.elementor-widget-image a img[src$=".svg"]{width:48px !important }
+.elementor-widget-image img{vertical-align:middle !important;display:inline-block !important;}
+.elementor-custom-embed{
+    width: max-content !important;
+}
+.contact{
+    width: 50pc !important;
+    margin: -3pc !important;
+}
+  
+
+  

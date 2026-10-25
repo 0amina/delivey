@@ -1,0 +1,23 @@
+# Dependencies and generated builds
+frontend/node_modules/
+frontend/build/
+backend/target/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+**/application.properties
+**/application-local.properties
+**/*serviceAccount*.json
+**/*credentials*.json
+*.pem
+*.key
+*.jks
+*.p12
+
+# IDE and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

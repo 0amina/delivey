@@ -1,0 +1,30 @@
+.hfe-menu-item button{
+    background-color: #f39f39 !important;
+}
+.hfe-menu-item button :hover{
+    background-color: #daa767 !important;
+}
+.dropdown {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .dropdown ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .dropdown li {
+    padding: 5px 10px;
+  }
+  
+  .dropdown li:hover {
+    background-color: #f2f2f2;
+  }
+  
